@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/navbar";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./pages/Product/Home";
+import Home from "./pages/Home";
 import Error404 from "./pages/Error404";
 import Dashboard from "./pages/Dashboard";
 import Product from "./pages/Product";

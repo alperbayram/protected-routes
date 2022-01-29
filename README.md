@@ -1,6 +1,6 @@
 # ReactJS’de Protected Routes Kullanımı
-[TR] Herkese merhabalar bu yazımda React.js de Protected Routes kullanımından bahsedeceğim.
-Öncelikle Protected Routes a neden ihtiyaç duyarız bunu anlatayım bazı kullanıcıların erişebileceği özel sayfalar tasarlarız mesela dashboard gibi bu sayfalara sadece kayıtlı kullanıcıların erişmemesini isteriz ya da bir ön koşul belirtiriz bu koşul kullanıcı rolü olabilir sadece admin rolüne sahip kişilerin görüntüleyebilmesini sağlarız. Genel olarak kullanım mantığı bu şekildedir. 
+[TR] 
+Herkese merhabalar bu yazımda React.js de Protected Routes kullanımından bahsedeceğim.
 
 ### [yazının devamı..](https://alper-bayram.medium.com/reactjsde-protected-routes-kullan%C4%B1m%C4%B1-188f453a8abc)
 
